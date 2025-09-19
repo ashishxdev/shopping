@@ -1,4 +1,4 @@
-# 🛒 Modern E-commerce Store
+# 🛒 E-commerce Store
 
 A responsive, modular e-commerce web app built with React. Users can browse, search, view product details in a modal, and manage a shopping cart with quantity control.
 
