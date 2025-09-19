@@ -47,7 +47,7 @@ src/
 ## 📦 Setup & Installation
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/ashishxdev/shopping.git](https://github.com/ashishxdev/shopping.git)
+    git clone https://github.com/ashishxdev/shopping.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
